@@ -40,7 +40,7 @@ class SearchPage extends StatelessWidget {
                   textColor: Colors.white,
                   fontSize: 16.0,
                 );
-                Navigator.pop(context);
+                // Navigator.pop(context);
               }else{
                 Fluttertoast.showToast(
                   msg: "Well done شطورة",
